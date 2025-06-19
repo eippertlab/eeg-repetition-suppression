@@ -1,0 +1,73 @@
+subject	selection																																				
+es01	strict	2	53	65	83	100	112	123	136	161	166	184	185																								
+es01	liberal			65	83	100			136																												
+es03	strict	4	12	18	21	23	25	48	49	55	65	71	81	103	126	129	136	157	168	176	181																
+es03	liberal	4			21													157			181																
+es04	strict	16	22	33	42	52	71	83	89	91	131	159	167																								
+es04	liberal				42						131																										
+es06	strict	12	35	96	109	127	131	142	154																												
+es06	liberal	12		96	109	127	131																														
+es07	strict	5	15	20	21	25	30	34	67	71	73	76	85	106	108	114	120	125	150	160	168	179	180	181	184												
+es07	liberal	5		20						71	73	76	85	106				125			168			181	184												
+es08	strict	12	19	28	35	36	46	49	55	57	61	63	66	71	82	116	119	121	128	135	140	147	161														
+es08	liberal	12								57	61		66		82	116						147	161														
+es09	strict	17	30	35	39	52	59	67	72	85	106	110	130																								
+es09	liberal											110	130																								
+es10	strict	4	6	9	12	13	51	85	125	150	161																										
+es10	liberal							85	125																												
+es11	strict	27	71	76	82	83	107																														
+es11	liberal					83																															
+es12	strict	6	13	19	20	52	60	64	79	80	96	149																									
+es12	liberal																																				
+es13	strict	7	9	19	21	22	29	32	34	35	67	121	139																								
+es13	liberal	7	9		21	22		32	34																												
+es15	strict	20	170	185																																	
+es15	liberal			185																																	
+es17	strict	142	157																																		
+es17	liberal																																				
+es18	strict	72	119	133	154																																
+es18	liberal																																				
+es19	strict	78	93	128																																	
+es19	liberal			128																																	
+es20	strict	3	45	53	63	97	106	107	124	126	129																										
+es20	liberal	3	45				106	107																													
+es21	strict	53	87	95	96	103	153	158																													
+es21	liberal					103																															
+es22	strict	47																																			
+es22	liberal																																				
+es23	strict	39	78	81	90	92	112	123	127	138																											
+es23	liberal																																				
+es25	strict	1	85	103	121	149																															
+es25	liberal																																				
+es26	strict	11	14	21	32	39	74	77	122	133	167																										
+es26	liberal																																				
+es27	strict	61	79																																		
+es27	liberal																																				
+es28	strict	22	34	37	39	71	94	102	104	111	153																										
+es28	liberal																																				
+es30	strict	1	10																																		
+es30	liberal																																				
+es31	strict	36	60	71	139																																
+es31	liberal				139																																
+es32	strict	23	64	91	141																																
+es32	liberal	23																																			
+es33	strict	74	76	79	123																																
+es33	liberal				123																																
+es34	strict	127																																			
+es34	liberal																																				
+es35	strict	188																																			
+es35	liberal	188																																			
+es40	strict	67	115																																		
+es40	liberal																																				
+es41	strict	3	4	6	7	8	13	18	20	30	31	33	36	37	44	54	55	56	58	61	78	79	81	84	85	86	98	100	102	112	113	117	127	130	131	141	144
+es41	liberal		4								31		36						58				81									117				141	144
+es42	strict	7	15	29	32	45	47	94	96	136	147	171																									
+es42	liberal				32						147																										
+es44	strict	75	83	138	148	160	161	165	169																												
+es44	liberal																																				
+es45	strict	39	46	101	105	131	160	161																													
+es45	liberal				105																																
+es46	strict	1	14	15	47	52	64	78	82	83	93	124	137																								
+es46	liberal				47								137																								
+es47	strict	52	81	83																																	
+es47	liberal																																				
